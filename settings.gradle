@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Faze"
-include ':app'
+
+rootProject.name = "faze"
+include ':mobile'
+include ':wear'
